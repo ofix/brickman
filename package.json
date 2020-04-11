@@ -1,0 +1,23 @@
+{
+  "name": "brickman",
+  "version": "1.0.0",
+  "description": "code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofix/brickman.git"
+  },
+  "author": "ofix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ofix/brickman/issues"
+  },
+  "homepage": "https://github.com/ofix/brickman#readme",
+  "devDependencies": {
+    "electron": "^8.2.1"
+  }
+}
